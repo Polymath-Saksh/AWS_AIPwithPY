@@ -76,6 +76,7 @@ def display(image_path, model, topk, cat_to_name, gpu):
     print('Probabilities:', probs)
     print('Classes:', classes)
     print('Names:', names)
+    print('Most likely class:', names[0])
 
 # Main function
 def main():
