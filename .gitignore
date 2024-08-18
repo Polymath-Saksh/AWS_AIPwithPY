@@ -1,3 +1,6 @@
 *.png
 *.json
-*.py
+*.pth
+*.gz
+workspace-utils-deprecated.py
+/flowers
